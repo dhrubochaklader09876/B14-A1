@@ -1,0 +1,26 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+/* Button common style */
+.common-btn{
+    background-color: #1D4ED8;
+    color: #FFFFFF;
+    opacity: 100%;
+    padding: 10px 25px;
+    /* height: 35px; */
+    border-radius: 10px;
+}
+.nav-section{
+    max-width: 1320px;
+    display: flex;
+    justify-content: space-between;
+    margin: 20px auto;
+}
+.anchor a{
+    padding: 0 10px;  
+}
+.anchor{
+    margin-top: 10px;
+}
